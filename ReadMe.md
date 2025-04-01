@@ -1,4 +1,4 @@
-# Kotlin LeetCode Solutions
+# Kotlin AACCTT Solutions
 [![Build and Test](https://github.com/akshayjoyinfo/aacctt-algorithm-solutions/actions/workflows/build.yaml/badge.svg)](https://github.com/akshayjoyinfo/aacctt-algorithm-solutions/actions/workflows/build.yaml)
 
 This repository AACCTT Algorithm problems implemented using Kotlin. Each solution is tested using Kotlin's standard test framework.
