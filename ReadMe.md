@@ -31,8 +31,8 @@ Build and Tests are running once PR or merge to Main branc initiated , already e
 
 
 
-
-#### 🚀 Memory Calculation Country Counter Problem:
+#### Memory Calculation Country Counter Problem:
+---
 
 Matrix Size
 
