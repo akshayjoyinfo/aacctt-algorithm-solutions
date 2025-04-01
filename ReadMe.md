@@ -24,29 +24,30 @@ This repository AACCTT Algorithm problems implemented using Kotlin. Each solutio
 </div>
 
 
+## 🚀 Build & Tests:
 
-#### Memory Calculation Country Counter Problem
+Build and Tests are running once PR or merge to Main branc initiated , already enabled github actions with JAVA 23, Kotlin 2.0.21
 
-##### Matrix Size
+
+
+
+#### 🚀 Memory Calculation Country Counter Problem:
+
+Matrix Size
 
 - **Total elements**: 30,000 * 10,000 = 300,000,000 elements.
 
-##### Memory for Matrix
+Memory for Matrix
 
 - **Each `Int`**: 4 bytes.
 - **Total bytes**: 300,000,000 * 4 = 1,200,000,000 bytes.
 - **Convert to gigabytes**: 1,200,000,000 / (1024^3) ≈ 1.12 GB.
 
-##### Additional Memory
+Additional Memory
 
 - **Visited array (Boolean)**: Requires 300,000,000 bytes.
 - **Total additional memory**: ≈ 0.28 GB.
 
-##### Total Estimated RAM
+Total Estimated RAM
 
 - **Total RAM Needed**: Approximately 1.4 GB.
-
-##### Considerations
-
-- **Overhead**: Additional memory is needed for the JVM and other data structures.
-- **Feasibility**: This size is more feasible for testing on systems with around 4 GB of available RAM. Adjust JVM heap size accordingly.
