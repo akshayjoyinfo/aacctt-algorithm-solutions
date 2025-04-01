@@ -27,4 +27,5 @@ jobs:
           kotlin-version: '2.0.21'
 
       - name: Build and Test with Gradle
+        working-directory: ./AlgoKotlin
         run: ./gradlew build test
