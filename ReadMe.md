@@ -6,14 +6,15 @@ This repository AACCTT Algorithm problems implemented using Kotlin. Each solutio
 ## 📌 Problems Solved:
 1. **Country Counter** (CountryCounter.kt)
 2. **Reverse Linked List** (Problem2.kt)
+3. **Main.kt** (Mainly for performance concern tests)
 
 ## 🚀 How to Run:
 1. Clone the repo:
    ```sh
-   git clone https://github.com/akshayjoyinfo/aacctt-algorithm-solutions.git
-   cd AlgoKotlin
-   ./gradlew build
-   ./gradlew test          #Verify test results in build/reports/tests/test/index.html
+    git clone https://github.com/akshayjoyinfo/aacctt-algorithm-solutions.git
+    cd AlgoKotlin
+    ./gradlew build
+    ./gradlew test          #Verify test results in build/reports/tests/test/index.html
    ```
 
 2. Verify the Test Results
